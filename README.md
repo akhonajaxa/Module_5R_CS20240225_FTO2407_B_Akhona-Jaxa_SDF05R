@@ -38,3 +38,12 @@ Embark on this CSS journey to transform simple buttons into interactive, animate
 - Submit the link to your GitHub repository on the LMS under the project tab.
 
 Embark on this CSS journey to transform simple buttons into interactive, animated elements. Let your creativity shine and enjoy the process of bringing static elements to life!
+
+## Challenges
+
+1. Choices I took to style the buttons
+ - I used absolute position in order to make the movement of the color
+ - And it took me time to get the color background to flow when the button transist
+ - item color or element color as it must be hidden on overflow
+ 2. On box shaddowing was so difficult to choose a relative positioning as I wanted the color to have different backgroung and shadow. inset color values: I need more to know how to make the shadow outside the box, also.
+ 3. I remove rotation on button no.3 as it didn't move. I wisha I could have put more on it but my challenge was also time limitation to work in hand with theory to understand more Specifity as all 3 buttons I chose Pseudo-class.

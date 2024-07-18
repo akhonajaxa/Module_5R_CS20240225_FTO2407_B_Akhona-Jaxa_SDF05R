@@ -92,6 +92,7 @@ animation: linear;
   
   /* 2 */
   .btn-2:before {
+    
   background: rgb(68 215 84);
   color: :read-only
   border: none;
